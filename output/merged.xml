@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 12 Jan 2026 08:41:40 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 09:40:07 GMT</lastBuildDate>
 <item>
 <title><![CDATA[From the British High Commission to the Edge of the Sundarbans]]></title>
 <link>https://dhakacourier.com.bd/index.php/news/Reportage/From-the-British-High-Commission-to-the-Edge-of-the-Sundarbans/9888</link>
@@ -481,5 +481,11 @@ I wish that I could write something soul-uplifting, but the truth is that gravit
 <link>https://dhakacourier.com.bd/index.php/news/Reportage/Tigress-trapped-in-poachers%E2%80%99-snare-in-Sundarbans-rescued/9877</link>
 <pubDate>Fri, 09 Jan 2026 13:01:50 -0000</pubDate>
 <description><![CDATA[A tigress trapped in a snare set by deer poachers in the Sundarbans was rescued by the Forest Department on Sunday afternoon ...]]></description>
+</item>
+<item>
+<title><![CDATA[Summit Group to set up large data centre in Bangladesh within a year: Aziz Khan]]></title>
+<link>https://dhakacourier.com.bd/index.php/news/Reportage/Summit-Group-to-set-up-large-data-centre-in-Bangladesh-within-a-year-Aziz-Khan/9876</link>
+<pubDate>Mon, 12 Jan 2026 09:40:07 -0000</pubDate>
+<description><![CDATA[Riding the wave of growing demand for AI and cloud services in Bangladesh, Summit Group has announced plans to build a state- ...]]></description>
 </item>
 </channel></rss>
